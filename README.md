@@ -1,4 +1,4 @@
-# Tasoula-version
+# Example of README.md
 ##R script for mtcars Hierarchical Cluster
 ?mtcars
 dat = mtcars
